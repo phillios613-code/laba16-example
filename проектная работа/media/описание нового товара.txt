@@ -1,8 +1,0 @@
-  {
-    id: 4,
-    name: "Набор столовых приборов",
-    description: "Набор столовых приборов, 24 шт. Нержавеющая сталь.",
-    price: 900,
-    image: "media/product1.jpg", // можно заменить на другое изображение
-    imageWebp: "media/product1.webp"
-  }
